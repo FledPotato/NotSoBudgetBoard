@@ -1,5 +1,6 @@
 (sym_lib_table
-  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "C:/Users/s20017359/Documents/GitHub/NotSoBudgetBoard/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
-  (lib (name random-keyboard-parts)(type Legacy)(uri "C:/Users/s20017359/Documents/GitHub/NotSoBudgetBoard/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
-  (lib (name promicro)(type Legacy)(uri C:/Users/s20017359/Documents/GitHub/NotSoBudgetBoard/ProMicroKiCad/promicro_library/promicro.lib)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "C:/Users/s20017359/Documents/GitHub/NotSoBudgetBoard/SubModules/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type Legacy)(uri "C:/Users/s20017359/Documents/GitHub/NotSoBudgetBoard/SubModules/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name promicro)(type Legacy)(uri C:/Users/s20017359/Documents/GitHub/NotSoBudgetBoard/SubModules/ProMicroKiCad/promicro_library/promicro.lib)(options "")(descr ""))
+  (lib (name kbd)(type Legacy)(uri C:/Users/s20017359/Documents/GitHub/NotSoBudgetBoard/SubModules/kbd/kicad-symbols/kbd.lib)(options "")(descr ""))
 )
