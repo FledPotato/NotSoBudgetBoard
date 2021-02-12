@@ -7,6 +7,7 @@
 [submodule "ProMicroKiCad"]
 	path = ProMicroKiCad
 	url = https://github.com/Biacco42/ProMicroKiCad
-[submodule "KiCad-SSD1306_OLED-0.91-128x32"]
-	path = KiCad-SSD1306_OLED-0.91-128x32
-	url = https://github.com/MichMich/KiCad-SSD1306_OLED-0.91-128x32
+
+[submodule "SubModules/kbd"]
+	path = SubModules/kbd
+	url = https://github.com/foostan/kbd
