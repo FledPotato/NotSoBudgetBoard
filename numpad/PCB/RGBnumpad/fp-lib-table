@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name kicad-footprints)(type KiCad)(uri B:/Documents/KEEB/FirstKeeb/NotSoBudgetBoard/SubModules/kbd/kicad-footprints)(options "")(descr ""))
+  (lib (name MX_Only)(type KiCad)(uri B:/Documents/KEEB/FirstKeeb/NotSoBudgetBoard/SubModules/MX_Alps_Hybrid/MX_Only.pretty)(options "")(descr ""))
+  (lib (name kbd)(type KiCad)(uri B:/Documents/KEEB/FirstKeeb/NotSoBudgetBoard/SubModules/kbd/kicad-footprints/kbd.pretty)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type KiCad)(uri B:/Documents/KEEB/FirstKeeb/NotSoBudgetBoard/SubModules/MX_Alps_Hybrid/MX_Alps_Hybrid.pretty)(options "")(descr ""))
+  (lib (name promicro)(type KiCad)(uri B:/Documents/KEEB/FirstKeeb/NotSoBudgetBoard/SubModules/ProMicroKiCad/promicro.pretty)(options "")(descr ""))
+)
